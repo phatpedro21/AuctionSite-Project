@@ -1,0 +1,17 @@
+Auction site user requirements
+
+
+Want to be able to
+
+Site Visitor
+  -View items for sale *
+  -Log in / Register
+
+Buyer
+  -Make bid on item *
+  -Watch item
+  -Receive updates on items *
+  -Filter Items
+
+Seller
+  -Add an item to Sell
